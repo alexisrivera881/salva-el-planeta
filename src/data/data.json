@@ -1,184 +1,184 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Salva el Planeta",
+    "paragraph": "Cada árbol cuenta. Únete a nuestra misión de reforestar el planeta y combatir el cambio climático. Tu donación se convierte en bosques."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Somos una organización sin ánimo de lucro dedicada a la reforestación global. Creemos que cada persona puede ser parte de la solución. Recolectamos donaciones para plantar árboles en zonas deforestadas, restaurando ecosistemas y capturando carbono. Trabajamos con comunidades locales para asegurar que cada árbol plantado tenga un futuro próspero.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Combate el cambio climático",
+      "Restaura ecosistemas",
+      "Protege la biodiversidad",
+      "Genera empleo local"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "100% transparente",
+      "Reportes trimestrales",
+      "Cada árbol geolocalizado",
+      "Certificaciones ambientales"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Reforestación Amazonía",
+      "largeImage": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Vivero Comunitario",
+      "largeImage": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Bosque Urbano",
+      "largeImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Manglares",
+      "largeImage": "https://images.unsplash.com/photo-1503785640985-f62e3aeee448?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1503785640985-f62e3aeee448?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Nuevos Brotes",
+      "largeImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Voluntarios en Acción",
+      "largeImage": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Corazón Verde",
+      "largeImage": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Semillas de Esperanza",
+      "largeImage": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?w=600"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Futuro Verde",
+      "largeImage": "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=1200",
+      "smallImage": "https://images.unsplash.com/photo-1504198266287-1659872e6590?w=600"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-tree",
+      "name": "Planta un Árbol",
+      "text": "Con solo $1 puedes plantar un árbol nativo en zonas críticas. Recibe fotos y coordenadas de tu árbol."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-hand-peace-o",
+      "name": "Hazte Voluntario",
+      "text": "Únete a nuestras jornadas de reforestación. No necesitas experiencia, solo ganas de ayudar al planeta."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-share-alt",
+      "name": "Comparte la Misión",
+      "text": "Corre la voz. Cada persona que se suma multiplica el impacto. Comparte nuestra causa en tus redes."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-graduation-cap",
+      "name": "Educación Ambiental",
+      "text": "Talleres y recursos gratuitos sobre sostenibilidad, cambio climático y cómo ser parte del cambio."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building-o",
+      "name": "Alianzas Corporativas",
+      "text": "Empresas: compensen su huella de carbono con bosques corporativos. Proyectos a medida con reportes de impacto."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-globe",
+      "name": "Proyectos Globales",
+      "text": "Operamos en 12 países. Desde la Amazonía hasta África, cada región con especies nativas y comunidades locales."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200",
+      "text": "Saber que mi donación se convirtió en 50 árboles en la Amazonía me llena de esperanza. Es la mejor inversión que he hecho.",
+      "name": "María García"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+      "text": "Fui voluntario por primera vez y plantar árboles con mis propias manos fue una experiencia transformadora.",
+      "name": "Carlos Mendoza"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200",
+      "text": "Como empresa, compensar nuestra huella con Salva el Planeta nos dio un propósito real. Nuestro bosque corporativo ya tiene 5,000 árboles.",
+      "name": "Ana Torres"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+      "text": "Los talleres de educación ambiental llegaron a mi escuela y ahora todos los estudiantes tenemos nuestro propio huerto.",
+      "name": "Prof. Ricardo Luna"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200",
+      "text": "Ver crecer los árboles que plantamos juntos es ver crecer la esperanza. Mi hijo ya me pregunta cuándo volvemos.",
+      "name": "Laura Jiménez"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+      "text": "Donar mensualmente es fácil y el impacto es real. Recibo fotos y coordenadas de los árboles que mi aporte hizo posible.",
+      "name": "Sofía Reyes"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+      "name": "Alex Rivera",
+      "job": "Fundador & Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+      "name": "Carmen Flores",
+      "job": "Directora de Operaciones"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+      "name": "Diego Martínez",
+      "job": "Director Forestal"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+      "name": "Valentina Ortiz",
+      "job": "Coordinadora de Voluntarios"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Calle Verde 123, Ciudad Sostenible, CS 54321",
+    "phone": "+1 555 123 4567",
+    "email": "hola@salvaelplaneta.org",
+    "facebook": "https://facebook.com/salvaelplaneta",
+    "twitter": "https://twitter.com/salvaelplaneta",
+    "youtube": "https://youtube.com/@salvaelplaneta"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-tree",
+      "title": "Árboles Plantados",
+      "text": "Más de 500,000 árboles plantados en 12 países desde nuestra fundación."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cloud",
+      "title": "CO₂ Capturado",
+      "text": "Hemos capturado más de 50,000 toneladas de CO₂, equivalentes a 10,000 autos fuera de circulación."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Comunidades",
+      "text": "Trabajamos con 150 comunidades locales, generando empleo sostenible y protección ambiental."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-heart",
+      "title": "Donantes Activos",
+      "text": "Más de 25,000 donantes mensuales hacen posible esta misión. Únete a ellos."
     }
   ]
 }

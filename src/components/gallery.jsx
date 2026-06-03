@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Galería</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Cada imagen cuenta una historia de esperanza. Así es como tus donaciones se transforman en vida.
           </p>
         </div>
         <div className="row">
