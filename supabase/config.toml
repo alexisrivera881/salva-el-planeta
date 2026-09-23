@@ -1,0 +1,14 @@
+[auth]
+enabled = true
+
+[functions.create-donation]
+verify_jwt = false
+
+[functions.mp-webhook]
+verify_jwt = false
+
+[functions.create-volunteer]
+verify_jwt = false
+
+[functions.create-corporate]
+verify_jwt = false

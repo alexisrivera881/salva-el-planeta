@@ -14,7 +14,7 @@ export const Contact = (props) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
-  const clearState = () => setState({ ...initialState });
+  const clearState = () => setState(() => ({ ...initialState }));
   
   
   const handleSubmit = (e) => {
@@ -101,7 +101,7 @@ export const Contact = (props) => {
                     <span>
                       <i className="fa fa-map-marker"></i> Dirección
                     </span>
-                {props.data ? props.data.address : "loading"}
+                {props.data.address}
               </p>
             </div>
             <div className="contact-item">
@@ -109,7 +109,7 @@ export const Contact = (props) => {
                     <span>
                       <i className="fa fa-phone"></i> Teléfono
                     </span>{" "}
-                {props.data ? props.data.phone : "loading"}
+                {props.data.phone}
               </p>
             </div>
             <div className="contact-item">
@@ -117,7 +117,7 @@ export const Contact = (props) => {
                     <span>
                       <i className="fa fa-envelope-o"></i> Correo
                     </span>{" "}
-                {props.data ? props.data.email : "loading"}
+                {props.data.email}
               </p>
             </div>
           </div>
@@ -126,17 +126,17 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
+                    <a href={props.data.facebook}>
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
+                    <a href={props.data.twitter}>
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
+                    <a href={props.data.youtube}>
                       <i className="fa fa-youtube"></i>
                     </a>
                   </li>

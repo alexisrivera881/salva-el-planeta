@@ -29,7 +29,7 @@ function createFlowers(x, y, count = 20) {
   return flowers;
 }
 
-function FlowerParticle({ flower, triggered }) {
+const FlowerParticle = React.memo(({ flower, triggered }) => {
   const base = {
     position: 'fixed',
     left: flower.x - flower.size / 2,
@@ -65,7 +65,7 @@ function FlowerParticle({ flower, triggered }) {
   }
 
   return <div style={base}>{flower.emoji}</div>;
-}
+});
 
 export default function FlowerExplosion() {
   const [explosions, setExplosions] = useState([]);

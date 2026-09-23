@@ -67,34 +67,22 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-tree",
-      "name": "Planta un Árbol",
-      "text": "Con solo $1 puedes plantar un árbol nativo en zonas críticas. Recibe fotos y coordenadas de tu árbol."
+      "icon": "fa fa-heart",
+      "name": "Donación en Dinero",
+      "text": "Contribuye económicamente para plantar árboles. Cada peso colombiano cuenta y puedes donar de forma segura con Mercado Pago.",
+      "type": "donation"
     },
     {
       "icon": "fa fa-hand-peace-o",
-      "name": "Hazte Voluntario",
-      "text": "Únete a nuestras jornadas de reforestación. No necesitas experiencia, solo ganas de ayudar al planeta."
-    },
-    {
-      "icon": "fa fa-share-alt",
-      "name": "Comparte la Misión",
-      "text": "Corre la voz. Cada persona que se suma multiplica el impacto. Comparte nuestra causa en tus redes."
-    },
-    {
-      "icon": "fa fa-graduation-cap",
-      "name": "Educación Ambiental",
-      "text": "Talleres y recursos gratuitos sobre sostenibilidad, cambio climático y cómo ser parte del cambio."
+      "name": "Voluntariado con Incentivos",
+      "text": "Sé voluntario y recibe incentivos económicos por tu tiempo. Bonos, descuentos y certificaciones.",
+      "type": "volunteer"
     },
     {
       "icon": "fa fa-building-o",
       "name": "Alianzas Corporativas",
-      "text": "Empresas: compensen su huella de carbono con bosques corporativos. Proyectos a medida con reportes de impacto."
-    },
-    {
-      "icon": "fa fa-globe",
-      "name": "Proyectos Globales",
-      "text": "Operamos en 12 países. Desde la Amazonía hasta África, cada región con especies nativas y comunidades locales."
+      "text": "Empresas: compensen su huella de carbono con bosques corporativos. Reportes de impacto y certificaciones.",
+      "type": "corporate"
     }
   ],
   "Testimonials": [

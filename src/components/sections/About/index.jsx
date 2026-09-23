@@ -12,25 +12,21 @@ export const About = (props) => {
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>Sobre Nosotros</h2>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              <p>{props.data.paragraph}</p>
               <h3>¿Por qué elegirnos?</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
+                    {props.data.Why.map((d, i) => (
+                      <li key={`${d}-${i}`}>{d}</li>
+                    ))}
                   </ul>
                 </div>
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
+                    {props.data.Why2.map((d, i) => (
+                      <li key={`${d}-${i}`}> {d}</li>
+                    ))}
                   </ul>
                 </div>
               </div>
