@@ -24,6 +24,29 @@ Change the data in the ```data.json``` file as well as add any images to ```publ
 You can also change styles by modifying the ```public/css``` files.
 If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
 
+## Panel de Administrador
+
+El navbar incluye un menú **Administrador** con submenús que abren un panel de gestión (overlay) conectado a Supabase:
+
+- **Panel** — KPIs: donaciones, monto recaudado, voluntarios y alianzas pendientes.
+- **Donaciones** — listado, filtro por estado y cambio de estado (`pending/approved/rejected/refunded/cancelled`).
+- **Voluntarios** — listado y cambio de estado (`pending/active/inactive`).
+- **Alianzas Corporativas** — listado y cambio de estado (`pending/active/expired/rejected`).
+- **Transacciones** — log de pagos de Mercado Pago (`payment_transactions`).
+
+### Configuración (requerido)
+
+1. Aplica la migración `supabase/migrations/002_admin_panel.sql` (desde el SQL Editor de Supabase o con `supabase db push`).
+2. Fija la clave del panel (mínimo 6 caracteres):
+
+```sql
+SELECT planeta.admin_set_key('TuClaveSegura');
+```
+
+3. Ingresa esa clave en el menú Administrador del sitio. La clave se guarda en `sessionStorage` y se valida contra un hash bcrypt en `planeta.admin_config`.
+
+Los listados de Donaciones/Voluntarios/Alianzas funcionan sin clave (RLS permite lectura); cambiar estados y ver Transacciones requiere la clave.
+
 ## Like this project?
 <a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
 
